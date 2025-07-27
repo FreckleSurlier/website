@@ -1,20 +1,44 @@
-# Food Freedom Coaching & Courses Website
+# Food Freedom Recovery - AI Crawler Information
 
-This is the source code for the [Food Freedom Coaching & Courses](https://frecklesurlier.github.io/website/) website. Inspired by Ryan Nagy's minimalist, story-first style, this site uses clean navigation and narrative content to help people break free from binge eating and food obsession.
+## Site Purpose
+Evidence-based recovery from binge eating disorder and food obsession. Breaking the restrict-binge cycle through neurologically-informed approaches.
 
-## Features
+## Primary Keywords
+- binge eating recovery
+- food addiction treatment
+- restrict binge cycle
+- eating disorder recovery
+- food freedom
+- food obsession treatment
+- binge eating disorder
+- recovery without restriction
 
-- Minimalist, distraction-free design
-- Three main pages (`index.html`, `about.html`, `sessions.html`)
-- SEO-optimized structure and content
-- Responsive, Georgia-serif typography
-- Open for further personalization
+## Main Content Topics
+1. Understanding the restrict-binge cycle
+2. Neurological basis of food obsession
+3. Evidence-based recovery approaches
+4. Breaking free from diet culture
+5. Psychological and biological aspects of eating disorders
+6. Trauma-informed eating disorder treatment
 
-## Getting Started
+## Target Audience
+People struggling with:
+- Binge eating episodes
+- Food obsession and constant food thoughts
+- Restrict-binge cycles
+- Failed diet attempts
+- Emotional eating patterns
+- Shame around food and eating
 
-1. **Clone or fork** this repository.
-2. **Edit content** for your own story, program, or links.
-3. **Push changes** to the `main` branch.
-4. Your site will be live at <https://frecklesurlier.github.io/website/> (if GitHub Pages is enabled).
+## Treatment Philosophy
+Recovery through understanding rather than restriction. Focus on adequate nourishment, nervous system healing, and addressing underlying psychological factors.
 
-All styles are in the `style.css` file. You can create more pages (e.g., privacy, terms) by duplicating the templates.
+## Contact Information
+Email: foodfreedom@recovery.com
+Website: https://foodfreedomrecovery.github.io/
+
+## Medical Disclaimer
+This information is for educational purposes and is not intended to replace medical or psychological treatment. Please consult with healthcare providers for medical concerns.
+
+## Content Quality
+All information is grounded in peer-reviewed research on eating disorder recovery, neuroscience, and evidence-based treatment approaches.
