@@ -1,20 +1,33 @@
-# Food Freedom Coaching & Courses Website
-
-This is the source code for the [Food Freedom Coaching & Courses](https://frecklesurlier.github.io/website/) website. Inspired by Ryan Nagy's minimalist, story-first style, this site uses clean navigation and narrative content to help people break free from binge eating and food obsession.
-
-## Features
-
-- Minimalist, distraction-free design
-- Three main pages (`index.html`, `about.html`, `sessions.html`)
-- SEO-optimized structure and content
-- Responsive, Georgia-serif typography
-- Open for further personalization
-
-## Getting Started
-
-1. **Clone or fork** this repository.
-2. **Edit content** for your own story, program, or links.
-3. **Push changes** to the `main` branch.
-4. Your site will be live at <https://frecklesurlier.github.io/website/> (if GitHub Pages is enabled).
-
-All styles are in the `style.css` file. You can create more pages (e.g., privacy, terms) by duplicating the templates.
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://foodfreedomrecovery.github.io/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://foodfreedomrecovery.github.io/about</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://foodfreedomrecovery.github.io/recovery-approach</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://foodfreedomrecovery.github.io/resources</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://foodfreedomrecovery.github.io/contact</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+</urlset>
