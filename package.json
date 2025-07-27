@@ -1,0 +1,44 @@
+{
+  "name": "food-freedom-recovery",
+  "version": "1.0.0",
+  "description": "Evidence-based recovery from binge eating disorder and food obsession",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Static site ready for deployment'",
+    "test": "echo 'No tests specified'",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foodfreedomrecovery/foodfreedomrecovery.github.io.git"
+  },
+  "keywords": [
+    "eating-disorder",
+    "binge-eating",
+    "recovery",
+    "mental-health",
+    "neuroscience",
+    "psychology",
+    "healthcare",
+    "evidence-based",
+    "food-freedom",
+    "wellness",
+    "therapy",
+    "nutrition",
+    "body-image",
+    "trauma-informed-care",
+    "restrict-binge-cycle",
+    "food-addiction",
+    "eating-disorder-recovery"
+  ],
+  "author": "Food Freedom Recovery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foodfreedomrecovery/foodfreedomrecovery.github.io/issues"
+  },
+  "homepage": "https://foodfreedomrecovery.github.io",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
